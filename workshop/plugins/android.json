@@ -24,6 +24,9 @@
         },
         "cordova-plugin-contacts": {
             "PACKAGE_NAME": "com.asaad.workshop"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "com.asaad.workshop"
         }
     },
     "dependent_plugins": {}
